@@ -45,8 +45,8 @@ No stylus or touchscreen needed — just your hand and some creativity! ✋🎨
 
 ## 🖼️ Demo
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/14d08ecb-a54e-4d23-a07a-4ee8d9ca8e35" />
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4f76c1ac-ea72-4db2-ac3e-5cf64b9a23ea" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/14d08ecb-a54e-4d23-a07a-4ee8d9ca8e35" />
+<img width="500" height="700" alt="image" src="https://github.com/user-attachments/assets/4f76c1ac-ea72-4db2-ac3e-5cf64b9a23ea" />
 
 
 ---
