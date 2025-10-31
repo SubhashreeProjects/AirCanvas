@@ -126,4 +126,3 @@ Push to your branch and open a Pull Request
 If you liked this project, please give it a ⭐ on GitHub —
 it helps others find this repo and motivates me to build more creative projects!
 
-<p align="center"> <img src="https://img.shields.io/github/stars/SubhashreeProjects/AirCanvas?style=social" alt="GitHub stars"> </p> ```
