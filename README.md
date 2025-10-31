@@ -45,16 +45,8 @@ No stylus or touchscreen needed — just your hand and some creativity! ✋🎨
 
 ## 🖼️ Demo
 
-> 🪄 *Draw, erase, and color — all with your hands!*
+<img width="895" height="720" alt="image" src="https://github.com/user-attachments/assets/14d08ecb-a54e-4d23-a07a-4ee8d9ca8e35" />
 
-You can showcase results by adding your screenshots or demo GIFs here 👇  
-Header/1.jpg
-Header/2.jpg
-Header/3.jpg
-Header/4.jpg
-
-yaml
-Copy code
 
 ---
 
