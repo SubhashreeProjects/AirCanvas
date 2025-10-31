@@ -89,33 +89,27 @@ AirCanvas/
 ├── HandTrackingModule.py  # Custom module for hand tracking
 ├── main.py                # Main application logic
 └── README.md              # Documentation
+
 🧑‍💻 Author
 👩‍💻 Subhashree Projects
 📍 Developed as a Computer Vision learning project.
-📧 [your-email@example.com]
-🌐 GitHub Profile
+📧 2002subhashree@gmail.com
 
 💡 Future Enhancements
 💾 Save your drawings as images
-
 🎨 Add multi-color palette
-
 🤲 Support for both hands
-
 🔁 Gesture-based undo/redo feature
 
 ⭐ Contribute
 Contributions are always welcome!
-
 Fork this repository
-
 Create your feature branch
-
 Commit your changes
-
 Push to your branch and open a Pull Request
 
 🖤 Support
 If you liked this project, please give it a ⭐ on GitHub —
 it helps others find this repo and motivates me to build more creative projects!
+"Need the Documents of this project mail me on "2002subhashree@gmail.com"."
 
